@@ -52,22 +52,23 @@ Most of what I build lives in this GitHub: classifiers and pipelines on one end,
 | 🚀 | [**webcachex**](https://github.com/ArmanBjr/webcachex) | Multi-threaded reverse proxy with TTL caching |
 
 <details>
-<summary><b>All repositories</b></summary>
+<summary><b>All public repositories (23)</b></summary>
 
 <br>
 
 | Area | Repos |
 |------|-------|
-| **ML / CV** | [vehicle-brand-classifier](https://github.com/ArmanBjr/vehicle-brand-classifier) |
+| **ML / CV** | [vehicle-brand-classifier](https://github.com/ArmanBjr/vehicle-brand-classifier) · [CNN-IML](https://github.com/ArmanBjr/CNN-IML) · [sentiment-analyze-snappfood](https://github.com/ArmanBjr/sentiment-analyze-snappfood) · [AI-projects-fall-2025](https://github.com/ArmanBjr/AI-projects-fall-2025) |
 | **Systems & OS** | [ipfs-simple](https://github.com/ArmanBjr/ipfs-simple) · [fum-os-project-spring-2026](https://github.com/ArmanBjr/fum-os-project-spring-2026) |
 | **Networks** | [filesharex](https://github.com/ArmanBjr/filesharex) · [webcachex](https://github.com/ArmanBjr/webcachex) |
 | **Security** | [access-control-models-lab](https://github.com/ArmanBjr/access-control-models-lab) · [password-auth-lab](https://github.com/ArmanBjr/password-auth-lab) |
 | **Architecture** | [computer-architecture-lab](https://github.com/ArmanBjr/computer-architecture-lab) |
 | **Languages** | [weirdlang-antlr](https://github.com/ArmanBjr/weirdlang-antlr) · [JflapTester](https://github.com/ArmanBjr/JflapTester) |
-| **Embedded** | [stm32-hangman-game](https://github.com/ArmanBjr/stm32-hangman-game) |
+| **Embedded** | [stm32-hangman-game](https://github.com/ArmanBjr/stm32-hangman-game) · [stm32-smartphone](https://github.com/ArmanBjr/stm32-smartphone) |
 | **Databases** | [varzesh3-football-db](https://github.com/ArmanBjr/varzesh3-football-db) |
-| **Algorithms** | [algorithm-design-cpp](https://github.com/ArmanBjr/algorithm-design-cpp) · [FCPC-Contests](https://github.com/ArmanBjr/FCPC-Contests) |
-| **Web** | [universitis-atlas-europe](https://github.com/ArmanBjr/universitis-atlas-europe) |
+| **Algorithms** | [algorithm-design-cpp](https://github.com/ArmanBjr/algorithm-design-cpp) · [FCPC-Contests](https://github.com/ArmanBjr/FCPC-Contests) · [cooridor](https://github.com/ArmanBjr/cooridor) |
+| **Web / Desktop** | [universitis-atlas-europe](https://github.com/ArmanBjr/universitis-atlas-europe) · [multi-currency-exchange](https://github.com/ArmanBjr/multi-currency-exchange) · [TradeCheck](https://github.com/ArmanBjr/TradeCheck) |
+| **Coursework** | [FOP1404](https://github.com/ArmanBjr/FOP1404) |
 
 </details>
 

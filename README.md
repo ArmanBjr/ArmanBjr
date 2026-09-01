@@ -2,9 +2,9 @@
 
 # Hi, I'm Arman Bijari
 
-**Computer Science @ Ferdowsi University of Mashhad** · applying for MSc programs
+**Computer Engineering @ Ferdowsi University of Mashhad** · MSc applicant
 
-Systems · Security · Machine Learning · Embedded · Compilers
+Machine Learning · Systems · Computational Neuroscience
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Arman__Bjr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arman_Bjr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armanbijari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanbijari/)
@@ -16,22 +16,30 @@ Systems · Security · Machine Learning · Embedded · Compilers
 
 ## About
 
-I'm a CS undergraduate at **FUM** with hands-on work across **systems**, **networking**, **security**, **ML**, and **embedded systems**. I like building end-to-end projects — from Verilog CPUs and ANTLR grammars to production-style C++/FastAPI services — and I document them clearly for others to run and review.
+I'm a **Computer Engineering** undergraduate at **FUM** building at the intersection of **machine learning**, **systems**, and **neuroscience** — from classifiers and data pipelines to low-level C/C++ services, Verilog CPUs, and STM32 embedded work.
+
+I'm especially interested in **computational neuroscience**, **ML systems for neural and biological data**, and the hardware/software stack that makes that research run in practice — efficient inference, real-time signal handling, and reliable data infrastructure.
 
 **Currently:** polishing my open-source portfolio and preparing MSc applications.
 
 ---
 
+## Research interests
+
+`Computational Neuroscience` · `ML Systems` · `Neural Data Pipelines` · `Embedded & Real-Time Systems` · `Computer Architecture` · `Efficient Inference`
+
+---
+
 ## Selected projects
 
-| Project | What it shows |
-|---------|----------------|
-| [**filesharex**](https://github.com/ArmanBjr/filesharex) | Secure file sharing, messaging & voice chat — C++, FastAPI, PostgreSQL, WebSockets |
-| [**ipfs-simple**](https://github.com/ArmanBjr/ipfs-simple) | Content-addressed storage engine in C with Blake3 chunking + FastAPI gateway |
-| [**access-control-models-lab**](https://github.com/ArmanBjr/access-control-models-lab) | ACL, RBAC, ABAC & MAC in Python/SQLite with tests |
-| [**weirdlang-antlr**](https://github.com/ArmanBjr/weirdlang-antlr) | Custom language: ANTLR4 lexer/parser + semantic checker |
-| [**computer-architecture-lab**](https://github.com/ArmanBjr/computer-architecture-lab) | Single-cycle RISC-V CPU in Verilog + Python assembler + DE2 FPGA |
-| [**vehicle-brand-classifier**](https://github.com/ArmanBjr/vehicle-brand-classifier) | Multiclass car-brand classification — SVM & Decision Tree (scikit-learn) |
+| Project | Relevance |
+|---------|-----------|
+| [**vehicle-brand-classifier**](https://github.com/ArmanBjr/vehicle-brand-classifier) | ML pipeline — feature engineering, SVM & Decision Tree, evaluation |
+| [**computer-architecture-lab**](https://github.com/ArmanBjr/computer-architecture-lab) | CE foundations — RISC-V CPU in Verilog, assembler, FPGA port |
+| [**ipfs-simple**](https://github.com/ArmanBjr/ipfs-simple) | Systems — content-addressed storage in C, chunking, FastAPI gateway |
+| [**filesharex**](https://github.com/ArmanBjr/filesharex) | Distributed systems — real-time messaging, voice streaming, C++/FastAPI |
+| [**stm32-hangman-game**](https://github.com/ArmanBjr/stm32-hangman-game) | Embedded — STM32F303, HAL, UART/LCD/keypad, real-time I/O |
+| [**webcachex**](https://github.com/ArmanBjr/webcachex) | Networks — multi-threaded reverse proxy, caching, latency-aware design |
 
 <details>
 <summary><b>More repositories</b></summary>
@@ -40,13 +48,15 @@ I'm a CS undergraduate at **FUM** with hands-on work across **systems**, **netwo
 
 | Area | Repos |
 |------|-------|
-| **Networks** | [webcachex](https://github.com/ArmanBjr/webcachex) · [filesharex](https://github.com/ArmanBjr/filesharex) |
-| **Security** | [password-auth-lab](https://github.com/ArmanBjr/password-auth-lab) · [access-control-models-lab](https://github.com/ArmanBjr/access-control-models-lab) |
+| **ML / CV** | [vehicle-brand-classifier](https://github.com/ArmanBjr/vehicle-brand-classifier) |
+| **Systems & OS** | [ipfs-simple](https://github.com/ArmanBjr/ipfs-simple) · [fum-os-project-spring-2026](https://github.com/ArmanBjr/fum-os-project-spring-2026) |
+| **Networks** | [filesharex](https://github.com/ArmanBjr/filesharex) · [webcachex](https://github.com/ArmanBjr/webcachex) |
+| **Security** | [access-control-models-lab](https://github.com/ArmanBjr/access-control-models-lab) · [password-auth-lab](https://github.com/ArmanBjr/password-auth-lab) |
+| **Architecture / HDL** | [computer-architecture-lab](https://github.com/ArmanBjr/computer-architecture-lab) |
+| **Compilers / Theory** | [weirdlang-antlr](https://github.com/ArmanBjr/weirdlang-antlr) · [JflapTester](https://github.com/ArmanBjr/JflapTester) |
+| **Embedded** | [stm32-hangman-game](https://github.com/ArmanBjr/stm32-hangman-game) |
 | **Databases** | [varzesh3-football-db](https://github.com/ArmanBjr/varzesh3-football-db) |
 | **Algorithms** | [algorithm-design-cpp](https://github.com/ArmanBjr/algorithm-design-cpp) · [FCPC-Contests](https://github.com/ArmanBjr/FCPC-Contests) |
-| **Embedded** | [stm32-hangman-game](https://github.com/ArmanBjr/stm32-hangman-game) |
-| **Tools** | [JflapTester](https://github.com/ArmanBjr/JflapTester) |
-| **Web** | [universitis-atlas-europe](https://github.com/ArmanBjr/universitis-atlas-europe) |
 
 </details>
 
@@ -58,16 +68,13 @@ I'm a CS undergraduate at **FUM** with hands-on work across **systems**, **netwo
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Verilog-8B4513?style=flat-square" alt="Verilog"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/ANTLR4-4B8BBE?style=flat-square" alt="ANTLR4"/>
+<img src="https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logo=intel&logoColor=white" alt="FPGA"/>
 </p>
 
 ---
@@ -90,6 +97,6 @@ I'm a CS undergraduate at **FUM** with hands-on work across **systems**, **netwo
 
 <div align="center">
 
-*If you're reviewing my profile for an MSc application — thanks for your time. Happy to share reports, demos, or walk through any repo.*
+*MSc reviewer? Happy to share reports, demos, or walk through any project — especially ML pipelines, systems work, and embedded prototypes.*
 
 </div>

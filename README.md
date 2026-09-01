@@ -4,7 +4,7 @@
 
 ### Computer Engineering · Ferdowsi University of Mashhad
 
-**ML × Systems × Neuroscience**
+**ML × Systems** · exploring computational neuroscience
 
 <br>
 
@@ -12,21 +12,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armanbijari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanbijari/)
 [![Email](https://img.shields.io/badge/Email-armanbijari5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanbijari5@gmail.com)
 
-<br>
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArmanBjr&query=public_repos&label=public%20repos&color=21262d&labelColor=161b22&logo=github)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArmanBjr&query=followers&label=followers&color=21262d&labelColor=161b22&logo=github)
-![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArmanBjr&query=following&label=following&color=21262d&labelColor=161b22&logo=github)
-
 </div>
 
 ---
 
 ## About me
 
-Computer Engineering student at **Ferdowsi University of Mashhad**. I work where **machine learning**, **systems**, and **neuroscience** meet — training models, writing fast low-level code, and wiring up hardware when software alone isn't enough.
+Computer Engineering student at **Ferdowsi University of Mashhad**. I build **machine-learning pipelines**, **systems software** in C/C++, and **embedded firmware** on STM32 — and I'm working toward projects in **neural data and computational neuroscience**.
 
-Most of what I build lives in this GitHub: classifiers and pipelines on one end, C/C++ services and Verilog CPUs on the other, with STM32 boards somewhere in between.
+Most repos here are university coursework, documented with reproducible setup. The ones I'm most proud of are the **self-initiated** tools and products below.
 
 ---
 
@@ -34,9 +28,10 @@ Most of what I build lives in this GitHub: classifiers and pipelines on one end,
 
 | | |
 |:---|:---|
-| **Brain & data** | Computational neuroscience · Neural data pipelines |
-| **Software** | ML systems · Efficient inference |
+| **Software** | ML systems · Efficient inference · Data pipelines |
+| **Systems** | Networks · Storage · Low-level C/C++ services |
 | **Hardware** | Computer architecture · Embedded & real-time |
+| **Exploring** | Computational neuroscience · Neural & biological signals |
 
 ---
 
@@ -44,33 +39,12 @@ Most of what I build lives in this GitHub: classifiers and pipelines on one end,
 
 | | Project | |
 |:---:|:---|:---|
-| 🧠 | [**vehicle-brand-classifier**](https://github.com/ArmanBjr/vehicle-brand-classifier) | Multiclass classification with SVM & Decision Tree |
-| ⚙️ | [**computer-architecture-lab**](https://github.com/ArmanBjr/computer-architecture-lab) | Single-cycle RISC-V CPU — Verilog, assembler, FPGA |
-| 📦 | [**ipfs-simple**](https://github.com/ArmanBjr/ipfs-simple) | Content-addressed storage in C + FastAPI gateway |
-| 🌐 | [**filesharex**](https://github.com/ArmanBjr/filesharex) | Secure file sharing, messaging & voice chat |
-| 🔌 | [**stm32-hangman-game**](https://github.com/ArmanBjr/stm32-hangman-game) | STM32F303 embedded game — LCD, keypad, UART |
-| 🚀 | [**webcachex**](https://github.com/ArmanBjr/webcachex) | Multi-threaded reverse proxy with TTL caching |
-
-<details>
-<summary><b>All public repositories (23)</b></summary>
-
-<br>
-
-| Area | Repos |
-|------|-------|
-| **ML / CV** | [vehicle-brand-classifier](https://github.com/ArmanBjr/vehicle-brand-classifier) · [CNN-IML](https://github.com/ArmanBjr/CNN-IML) · [sentiment-analyze-snappfood](https://github.com/ArmanBjr/sentiment-analyze-snappfood) · [AI-projects-fall-2025](https://github.com/ArmanBjr/AI-projects-fall-2025) |
-| **Systems & OS** | [ipfs-simple](https://github.com/ArmanBjr/ipfs-simple) · [fum-os-project-spring-2026](https://github.com/ArmanBjr/fum-os-project-spring-2026) |
-| **Networks** | [filesharex](https://github.com/ArmanBjr/filesharex) · [webcachex](https://github.com/ArmanBjr/webcachex) |
-| **Security** | [access-control-models-lab](https://github.com/ArmanBjr/access-control-models-lab) · [password-auth-lab](https://github.com/ArmanBjr/password-auth-lab) |
-| **Architecture** | [computer-architecture-lab](https://github.com/ArmanBjr/computer-architecture-lab) |
-| **Languages** | [weirdlang-antlr](https://github.com/ArmanBjr/weirdlang-antlr) · [JflapTester](https://github.com/ArmanBjr/JflapTester) |
-| **Embedded** | [stm32-hangman-game](https://github.com/ArmanBjr/stm32-hangman-game) · [stm32-smartphone](https://github.com/ArmanBjr/stm32-smartphone) |
-| **Databases** | [varzesh3-football-db](https://github.com/ArmanBjr/varzesh3-football-db) |
-| **Algorithms** | [algorithm-design-cpp](https://github.com/ArmanBjr/algorithm-design-cpp) · [FCPC-Contests](https://github.com/ArmanBjr/FCPC-Contests) · [cooridor](https://github.com/ArmanBjr/cooridor) |
-| **Web / Desktop** | [universitis-atlas-europe](https://github.com/ArmanBjr/universitis-atlas-europe) · [multi-currency-exchange](https://github.com/ArmanBjr/multi-currency-exchange) · [TradeCheck](https://github.com/ArmanBjr/TradeCheck) |
-| **Coursework** | [FOP1404](https://github.com/ArmanBjr/FOP1404) |
-
-</details>
+| 🛠️ | [**JflapTester**](https://github.com/ArmanBjr/JflapTester) | Automated JFLAP judge — batch grading & Excel export for automata courses |
+| 🌍 | [**universities-atlas-europe**](https://github.com/ArmanBjr/universities-atlas-europe) | Interactive globe of European universities — tuition, visas, post-study work |
+| 🌐 | [**filesharex**](https://github.com/ArmanBjr/filesharex) | Secure file sharing, messaging & voice chat — C++, FastAPI, PostgreSQL |
+| 🧠 | [**vehicle-brand-classifier**](https://github.com/ArmanBjr/vehicle-brand-classifier) | Multiclass car-brand classification — reported metrics, SVM & Decision Tree |
+| 📦 | [**ipfs-simple**](https://github.com/ArmanBjr/ipfs-simple) | Content-addressed storage in C — Blake3 chunking, FastAPI gateway |
+| 🔌 | [**stm32-smartphone**](https://github.com/ArmanBjr/stm32-smartphone) | STM32F303 smartphone firmware — FreeRTOS, LCD apps, Python web bridge |
 
 ---
 
@@ -93,10 +67,10 @@ Most of what I build lives in this GitHub: classifiers and pipelines on one end,
 
 <div align="center">
 
-<sub>Contribution graph and activity stats appear on the profile page below ↓</sub>
+**Open to research collaboration and internships** — especially ML systems, neural-signal pipelines, and embedded hardware.
 
-<br><br>
+<br>
 
-**Open to collaboration** — feel free to reach out.
+Telegram · [LinkedIn](https://www.linkedin.com/in/armanbijari/) · [Email](mailto:armanbijari5@gmail.com)
 
 </div>

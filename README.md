@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+%40+FUM;ML+%C3%97+Systems+%C3%97+Neuroscience;Building+things+that+think+and+scale" alt="Typing intro" />
+# Arman Bijari
 
-<br><br>
+### Computer Engineering · Ferdowsi University of Mashhad
+
+**ML × Systems × Neuroscience**
+
+<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Arman__Bjr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arman_Bjr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armanbijari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanbijari/)
 [![Email](https://img.shields.io/badge/Email-armanbijari5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanbijari5@gmail.com)
+
+<br>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArmanBjr&query=public_repos&label=public%20repos&color=21262d&labelColor=161b22&logo=github)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArmanBjr&query=followers&label=followers&color=21262d&labelColor=161b22&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArmanBjr&query=following&label=following&color=21262d&labelColor=161b22&logo=github)
 
 </div>
 
@@ -22,10 +32,11 @@ Most of what I build lives in this GitHub: classifiers and pipelines on one end,
 
 ## Focus
 
-```
-Computational Neuroscience  ·  ML Systems  ·  Neural Data Pipelines
-Embedded & Real-Time        ·  Computer Architecture  ·  Efficient Inference
-```
+| | |
+|:---|:---|
+| **Brain & data** | Computational neuroscience · Neural data pipelines |
+| **Software** | ML systems · Efficient inference |
+| **Hardware** | Computer architecture · Embedded & real-time |
 
 ---
 
@@ -65,37 +76,23 @@ Embedded & Real-Time        ·  Computer Architecture  ·  Efficient Inference
 ## Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Verilog-8B4513?style=flat-square"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logo=intel&logoColor=white"/>
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=react-dark&hide_border=true&area=true&custom_title=Activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=minimal&hide_border=true&area=true&custom_title=Activity" />
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=react-dark&hide_border=true&area=true&custom_title=Activity" />
-</picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanBjr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanBjr&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Verilog-8B4513?style=flat-square" alt="Verilog"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logo=intel&logoColor=white" alt="FPGA"/>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArmanBjr&color=58a6ff&style=flat-square" alt="Profile views"/>
+<sub>Contribution graph and activity stats appear on the profile page below ↓</sub>
 
 <br><br>
 

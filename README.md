@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Arman Bijari
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+%40+FUM;ML+%C3%97+Systems+%C3%97+Neuroscience;Building+things+that+think+and+scale" alt="Typing intro" />
 
-**Computer Engineering @ Ferdowsi University of Mashhad** · MSc applicant
-
-Machine Learning · Systems · Computational Neuroscience
+<br><br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Arman__Bjr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arman_Bjr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armanbijari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanbijari/)
@@ -14,35 +12,36 @@ Machine Learning · Systems · Computational Neuroscience
 
 ---
 
-## About
+## About me
 
-I'm a **Computer Engineering** undergraduate at **FUM** building at the intersection of **machine learning**, **systems**, and **neuroscience** — from classifiers and data pipelines to low-level C/C++ services, Verilog CPUs, and STM32 embedded work.
+Computer Engineering student at **Ferdowsi University of Mashhad**. I work where **machine learning**, **systems**, and **neuroscience** meet — training models, writing fast low-level code, and wiring up hardware when software alone isn't enough.
 
-I'm especially interested in **computational neuroscience**, **ML systems for neural and biological data**, and the hardware/software stack that makes that research run in practice — efficient inference, real-time signal handling, and reliable data infrastructure.
-
-**Currently:** polishing my open-source portfolio and preparing MSc applications.
+Most of what I build lives in this GitHub: classifiers and pipelines on one end, C/C++ services and Verilog CPUs on the other, with STM32 boards somewhere in between.
 
 ---
 
-## Research interests
+## Focus
 
-`Computational Neuroscience` · `ML Systems` · `Neural Data Pipelines` · `Embedded & Real-Time Systems` · `Computer Architecture` · `Efficient Inference`
+```
+Computational Neuroscience  ·  ML Systems  ·  Neural Data Pipelines
+Embedded & Real-Time        ·  Computer Architecture  ·  Efficient Inference
+```
 
 ---
 
-## Selected projects
+## Featured work
 
-| Project | Relevance |
-|---------|-----------|
-| [**vehicle-brand-classifier**](https://github.com/ArmanBjr/vehicle-brand-classifier) | ML pipeline — feature engineering, SVM & Decision Tree, evaluation |
-| [**computer-architecture-lab**](https://github.com/ArmanBjr/computer-architecture-lab) | CE foundations — RISC-V CPU in Verilog, assembler, FPGA port |
-| [**ipfs-simple**](https://github.com/ArmanBjr/ipfs-simple) | Systems — content-addressed storage in C, chunking, FastAPI gateway |
-| [**filesharex**](https://github.com/ArmanBjr/filesharex) | Distributed systems — real-time messaging, voice streaming, C++/FastAPI |
-| [**stm32-hangman-game**](https://github.com/ArmanBjr/stm32-hangman-game) | Embedded — STM32F303, HAL, UART/LCD/keypad, real-time I/O |
-| [**webcachex**](https://github.com/ArmanBjr/webcachex) | Networks — multi-threaded reverse proxy, caching, latency-aware design |
+| | Project | |
+|:---:|:---|:---|
+| 🧠 | [**vehicle-brand-classifier**](https://github.com/ArmanBjr/vehicle-brand-classifier) | Multiclass classification with SVM & Decision Tree |
+| ⚙️ | [**computer-architecture-lab**](https://github.com/ArmanBjr/computer-architecture-lab) | Single-cycle RISC-V CPU — Verilog, assembler, FPGA |
+| 📦 | [**ipfs-simple**](https://github.com/ArmanBjr/ipfs-simple) | Content-addressed storage in C + FastAPI gateway |
+| 🌐 | [**filesharex**](https://github.com/ArmanBjr/filesharex) | Secure file sharing, messaging & voice chat |
+| 🔌 | [**stm32-hangman-game**](https://github.com/ArmanBjr/stm32-hangman-game) | STM32F303 embedded game — LCD, keypad, UART |
+| 🚀 | [**webcachex**](https://github.com/ArmanBjr/webcachex) | Multi-threaded reverse proxy with TTL caching |
 
 <details>
-<summary><b>More repositories</b></summary>
+<summary><b>All repositories</b></summary>
 
 <br>
 
@@ -52,51 +51,54 @@ I'm especially interested in **computational neuroscience**, **ML systems for ne
 | **Systems & OS** | [ipfs-simple](https://github.com/ArmanBjr/ipfs-simple) · [fum-os-project-spring-2026](https://github.com/ArmanBjr/fum-os-project-spring-2026) |
 | **Networks** | [filesharex](https://github.com/ArmanBjr/filesharex) · [webcachex](https://github.com/ArmanBjr/webcachex) |
 | **Security** | [access-control-models-lab](https://github.com/ArmanBjr/access-control-models-lab) · [password-auth-lab](https://github.com/ArmanBjr/password-auth-lab) |
-| **Architecture / HDL** | [computer-architecture-lab](https://github.com/ArmanBjr/computer-architecture-lab) |
-| **Compilers / Theory** | [weirdlang-antlr](https://github.com/ArmanBjr/weirdlang-antlr) · [JflapTester](https://github.com/ArmanBjr/JflapTester) |
+| **Architecture** | [computer-architecture-lab](https://github.com/ArmanBjr/computer-architecture-lab) |
+| **Languages** | [weirdlang-antlr](https://github.com/ArmanBjr/weirdlang-antlr) · [JflapTester](https://github.com/ArmanBjr/JflapTester) |
 | **Embedded** | [stm32-hangman-game](https://github.com/ArmanBjr/stm32-hangman-game) |
 | **Databases** | [varzesh3-football-db](https://github.com/ArmanBjr/varzesh3-football-db) |
 | **Algorithms** | [algorithm-design-cpp](https://github.com/ArmanBjr/algorithm-design-cpp) · [FCPC-Contests](https://github.com/ArmanBjr/FCPC-Contests) |
+| **Web** | [universitis-atlas-europe](https://github.com/ArmanBjr/universitis-atlas-europe) |
 
 </details>
 
 ---
 
-## Tech stack
+## Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/Verilog-8B4513?style=flat-square" alt="Verilog"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logo=intel&logoColor=white" alt="FPGA"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Verilog-8B4513?style=flat-square"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logo=intel&logoColor=white"/>
 </p>
 
 ---
 
-## GitHub activity
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=react-dark&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=minimal&hide_border=true&area=true" />
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=react-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=react-dark&hide_border=true&area=true&custom_title=Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=minimal&hide_border=true&area=true&custom_title=Activity" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanBjr&theme=react-dark&hide_border=true&area=true&custom_title=Activity" />
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanBjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanBjr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanBjr&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanBjr&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
 </p>
 
 ---
 
 <div align="center">
 
-*MSc reviewer? Happy to share reports, demos, or walk through any project — especially ML pipelines, systems work, and embedded prototypes.*
+<img src="https://komarev.com/ghpvc/?username=ArmanBjr&color=58a6ff&style=flat-square" alt="Profile views"/>
+
+<br><br>
+
+**Open to collaboration** — feel free to reach out.
 
 </div>

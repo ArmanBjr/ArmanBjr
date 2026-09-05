@@ -71,6 +71,6 @@ Most repos here are university coursework, documented with reproducible setup. T
 
 <br>
 
-Telegram · [LinkedIn](https://www.linkedin.com/in/armanbijari/) · [Email](mailto:armanbijari5@gmail.com)
+[Telegram](https://t.me/Arman_Bjr) · [LinkedIn](https://www.linkedin.com/in/armanbijari/) · [Email](mailto:armanbijari5@gmail.com)
 
 </div>

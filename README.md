@@ -40,6 +40,19 @@ term that preserves submodularity. Zero-shot, no training corpus, CPU-only infer
 
 ---
 
+## Industry
+
+**AI Innovate / AtoVision** — R&D engineer on *AIxAM*, a production defect-detection system for
+industrial inspection lines: an event-driven edge microservice architecture doing real-time
+multi-camera anomaly detection on a moving line, MQTT-coordinated, deployed with Docker Compose.
+I built the line-scan camera subsystem — an adapter for physical line-scan sensors, a
+replay-driven simulator, and the assembly of streamed line packs into bounded inspection strips,
+so one pipeline serves both sensor geometries — and the per-camera settings model that replaced
+global configuration with content-derived revisions each service subscribes to independently.
+*Jun 2026 – present. Source is company-owned and not public.*
+
+---
+
 ## Selected software
 
 - **[JflapTester](https://github.com/ArmanBjr/JflapTester)** — automated judge for JFLAP automata

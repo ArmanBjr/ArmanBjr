@@ -21,15 +21,14 @@ integrated on GPU with [cuBNM](https://github.com/amnsbr/cuBNM). Two confounds t
 matter: the solver's default reuse of a 30-second noise segment corrupts exactly the
 low-frequency structure the estimator depends on, and the perturbation parameter is coupled to
 mean firing rate.
-*MPI CBS Leipzig, Aug 2025 – present. Supervisors: Dr. Sofie Valk, Dr. Amin Saberi.
-Repository private pending publication.*
+*MPI CBS Leipzig, Aug 2025 – present. Repository private pending publication.*
 
 **How much of a memory bank can you discard before anomaly detection degrades?**
 A comparative evaluation of five coreset selection methods — submodular Facility Location,
 k-means++ medoid, k-medoids, Determinantal Point Processes, and leverage-score sampling — on
 PatchCore embeddings for industrial surface-defect detection, at 1/2/5/10% subset sizes, scored
 on fidelity, coverage, diversity and stability.
-*With Dr. Hamidreza Pourreza, Machine Vision Lab, FUM. Manuscript in preparation.*
+*Machine Vision Lab, FUM. Manuscript in preparation.*
 
 **Where should the beacons go?**
 A self-directed indoor-positioning pipeline: DXF architectural floor plans → a georeferenced

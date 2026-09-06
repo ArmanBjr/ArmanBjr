@@ -42,14 +42,18 @@ term that preserves submodularity. Zero-shot, no training corpus, CPU-only infer
 
 ## Industry
 
-**AI Innovate / AtoVision** — R&D engineer on *AIxAM*, a production defect-detection system for
-industrial inspection lines: an event-driven edge microservice architecture doing real-time
-multi-camera anomaly detection on a moving line, MQTT-coordinated, deployed with Docker Compose.
-I built the line-scan camera subsystem — an adapter for physical line-scan sensors, a
+R&D engineer at **AI Innovate** (Canada, remote) on *AIxAM* — a production defect-detection
+system for industrial inspection lines. Event-driven edge microservices doing real-time
+multi-camera anomaly detection on a moving line: MQTT-coordinated, versioned OpenAPI/AsyncAPI
+contracts, deployed to NVIDIA Jetson units.
+
+I own the **line-scan camera subsystem** — an adapter driving Basler racer hardware, a
 replay-driven simulator, and the assembly of streamed line packs into bounded inspection strips,
-so one pipeline serves both sensor geometries — and the per-camera settings model that replaced
-global configuration with content-derived revisions each service subscribes to independently.
-*Jun 2026 – present. Source is company-owned and not public.*
+so one pipeline serves both area-scan and line-scan geometry — and the **per-camera settings
+model**, which replaced global configuration with content-derived revisions that each service
+subscribes to independently.
+
+*Jun 2026 – present. Source is company-owned; the repository is not mine to publish.*
 
 ---
 
